@@ -312,6 +312,7 @@
           .attr({
             "data-intelligence": userPowerStats.intelligence,
             id: "powerstat",
+            style: "margin-bottom: 10px"    
           })
           .text("Intelligence");
         //Creates the strength button
@@ -320,6 +321,7 @@
           .attr({ 
               "data-strength": userPowerStats.strength, 
               id: "powerstat",
+              style: "margin-bottom: 10px"
             })
           .text("Strength");
         //Creates the speed button
@@ -337,6 +339,7 @@
           .attr({
             "data-durability": userPowerStats.durability,
             id: "powerstat",
+            style: "margin-bottom: 10px"
           })
           .text("Durability");
         //Creates the power button
