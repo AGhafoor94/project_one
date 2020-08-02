@@ -16,7 +16,7 @@
 
 ## Access
 
-- The PowerUp App can be accessed from the following web address: https://steph-morrissey.github.io/powerup/
+- The PowerUp App can be accessed from the following web address: https://aghafoor94.github.io/project_one/
 
 ## Technologies
 
